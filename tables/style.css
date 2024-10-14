@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    margin-left: 15%;
+}
+#main{
+    width: 50%;
+    height: 75%;
+    border: 5px solid green;
+    background-color: rgb(238, 207, 157);
+    /* border-bottom-width: 20px; */
+    
+}
+
+#top{
+   text-align: center;
+}
+.desc{
+    text-align: left;
+}
+
+.slno{
+    text-align: center;
+}
+.reg{
+    display: flex;
+    justify-content: end;
+    padding-right: 10%;
+}
+.place{
+    padding-left: 5%;
+    margin-top: -5%;
+}
+table{
+    width: 90%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+tr,td{
+    border: 2px solid black;
+}
+.rules{
+    justify-content:center;
+    color: rgb(138, 8, 51);
+}
